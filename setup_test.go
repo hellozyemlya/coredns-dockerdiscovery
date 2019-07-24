@@ -5,8 +5,8 @@ import (
 	"testing"
 	"net"
 
-	"github.com/mholt/caddy"
 	"github.com/stretchr/testify/assert"
+	"github.com/caddyserver/caddy"
 	dockerapi "github.com/fsouza/go-dockerclient"
 
 	)
