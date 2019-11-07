@@ -33,7 +33,7 @@ Alternatively, you can use the following manual steps:
 
 1. Checkout coredns:  `go get github.com/coredns/coredns`.
 2. `cd $GOPATH/src/github.com/coredns/coredns`
-3. `echo "docker:github.com/kevinjqiu/coredns-dockerdiscovery" >> plugin.cfg`
+3. `echo "docker:github.com/hellozyemlya/coredns-dockerdiscovery" >> plugin.cfg`
 4. `go generate`
 5. `make`
 
